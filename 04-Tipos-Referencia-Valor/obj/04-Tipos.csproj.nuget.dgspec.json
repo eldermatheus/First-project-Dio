@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj",
         "projectName": "04-Tipos",
-        "projectPath": "c:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\04-Tipos.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\04-Tipos-Referencia-Valor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
