@@ -1,4 +1,4 @@
-﻿//Passagem por referência. Resultado: 2
+﻿//Passagem por valor. Resultado: 2
 static void PrimeiroAdiciona20(int valor) {
        valor = valor + 20;
 }
