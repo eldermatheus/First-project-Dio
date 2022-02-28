@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\ref\07-Projeto-Abstraindo-Jogo-RPG.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\bin\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\ref\07-Projeto-Abstraindo-Jogo-RPG.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\07-Projeto-Abstraindo-Jogo-RPG\obj\Debug\net6.0\07-Projeto-Abstraindo-Jogo-RPG.genruntimeconfig.cache
