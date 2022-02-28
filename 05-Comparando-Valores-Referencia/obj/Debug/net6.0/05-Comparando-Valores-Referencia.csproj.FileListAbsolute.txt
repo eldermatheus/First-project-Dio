@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\05-Comparando-Valores-Referencia.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\05-Comparando-Valores-Referencia.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\05-Comparando-Valores-Referencia.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\05-Comparando-Valores-Referencia.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\ref\05-Comparando-Valores-Referencia.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\bin\Debug\net6.0\05-Comparando-Valores-Referencia.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\ref\05-Comparando-Valores-Referencia.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\05-Comparando-Valores-Referencia\obj\Debug\net6.0\05-Comparando-Valores-Referencia.genruntimeconfig.cache
