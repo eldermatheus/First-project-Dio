@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\08-HTTP-HTTPS\obj\Debug\net6.0\08-HTTP-HTTPS.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\08-HTTP-HTTPS\obj\Debug\net6.0\08-HTTP-HTTPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\08-HTTP-HTTPS\obj\Debug\net6.0\08-HTTP-HTTPS.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\08-HTTP-HTTPS\obj\Debug\net6.0\08-HTTP-HTTPS.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\08-HTTP-HTTPS\obj\Debug\net6.0\08-HTTP-HTTPS.csproj.CoreCompileInputs.cache
