@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj",
         "projectName": "07-Projeto-Abstraindo-Jogo-RPG",
-        "projectPath": "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj",
-        "packagesPath": "C:\\Users\\elder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\07-Projeto-Abstraindo-Jogo-RPG.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\Workspace\\Projetos-Dio-GFT\\07-Projeto-Abstraindo-Jogo-RPG\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\elder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

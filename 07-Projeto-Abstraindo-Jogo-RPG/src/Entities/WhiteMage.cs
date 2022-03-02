@@ -2,23 +2,23 @@ namespace Jogo_RPG.src.Entities
 {
     public class WhiteMage : Hero
     {
-        public WhiteMage(string Name, int Level, string HeroType, int HP, int MP) {
-            this.Name = Name;
-            this.Level = Level;
-            this.HeroType = HeroType;
-            this.HP = HP;
-            this.MP = MP;
+        public WhiteMage(string name, int level, string heroType, int hp, int mp) {
+            this.Name = name;
+            this.Level = level;
+            this.HeroType = heroType;
+            this.HP = hp;
+            this.MP = mp;
         }
         public override string Attack() {
             return $"Nome: {Name} lançou uma magia!";
         }         
-        public virtual string Attack(int Bonus) {
+        public virtual string Attack(int bonus) {
 
-            if (Bonus > 6) {
-                return $"{Name} lançou uma magia efetiva com bonus de {Bonus}!";
+            if (bonus > 6) {
+                return $"{Name} lançou uma magia efetiva com bonus de {bonus}!";
             }
             else 
-                return $"{Name} lançou uma magia fraca com bonus de {Bonus}!";
+                return $"{Name} lançou uma magia fraca com bonus de {bonus}!";
         }
     }
 }

@@ -9,17 +9,17 @@ namespace Jogo_RPG.src.Entities
         public int MP { get; set; }        
         public Hero() {            
         }
-        public Hero(string Name, int Level, string HeroType, int HP, int MP) {
-            this.Name = Name;
-            this.Level = Level;
-            this.HeroType = HeroType;
-            this.HP = HP;
-            this.MP = MP;
+        public Hero(string name, int level, string heroType, int hp, int mp) {
+            this.Name = name;
+            this.Level = level;
+            this.HeroType = heroType;
+            this.HP = hp;
+            this.MP = mp;
         }
         public virtual string Attack() {
             return $"Nome: {Name} atacou!";
         }
-        public virtual string Attack(int Bonus) {
+        public virtual string Attack(int bonus) {
             return $"Nome: {Name} ganhou um bonus e atacou!";
         }
 
