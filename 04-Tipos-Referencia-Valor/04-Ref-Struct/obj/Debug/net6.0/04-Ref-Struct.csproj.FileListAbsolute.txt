@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\04-Ref-Struct.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\04-Ref-Struct.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\04-Ref-Struct.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\04-Ref-Struct.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\ref\04-Ref-Struct.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\bin\Debug\net6.0\04-Ref-Struct.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\ref\04-Ref-Struct.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\04-Ref-Struct\obj\Debug\net6.0\04-Ref-Struct.genruntimeconfig.cache

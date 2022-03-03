@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\03-Lista-de-nomes.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\03-Lista-de-nomes.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\03-Lista-de-nomes.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\03-Lista-de-nomes.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\ref\03-Lista-de-nomes.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\bin\Debug\net6.0\03-Lista-de-nomes.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\ref\03-Lista-de-nomes.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\04-Tipos-Referencia-Valor\03-Lista-de-nomes\obj\Debug\net6.0\03-Lista-de-nomes.genruntimeconfig.cache

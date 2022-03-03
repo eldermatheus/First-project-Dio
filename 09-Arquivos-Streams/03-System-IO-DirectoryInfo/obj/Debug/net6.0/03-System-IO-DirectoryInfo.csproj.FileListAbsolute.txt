@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\03-System-IO-DirectoryInfo.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\03-System-IO-DirectoryInfo.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\03-System-IO-DirectoryInfo.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\03-System-IO-DirectoryInfo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\ref\03-System-IO-DirectoryInfo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\bin\Debug\net6.0\03-System-IO-DirectoryInfo.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\ref\03-System-IO-DirectoryInfo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\03-System-IO-DirectoryInfo\obj\Debug\net6.0\03-System-IO-DirectoryInfo.genruntimeconfig.cache
