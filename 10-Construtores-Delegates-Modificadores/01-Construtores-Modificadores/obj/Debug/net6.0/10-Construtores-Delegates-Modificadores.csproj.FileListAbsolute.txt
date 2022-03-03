@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\bin\Debug\net6.0\10-Construtores-Delegates-Modificadores.exe
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\bin\Debug\net6.0\10-Construtores-Delegates-Modificadores.deps.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\bin\Debug\net6.0\10-Construtores-Delegates-Modificadores.runtimeconfig.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\bin\Debug\net6.0\10-Construtores-Delegates-Modificadores.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\bin\Debug\net6.0\10-Construtores-Delegates-Modificadores.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\refint\10-Construtores-Delegates-Modificadores.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\10-Construtores-Delegates-Modificadores.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\10-Construtores-Delegates-Modificadores\obj\Debug\net6.0\ref\10-Construtores-Delegates-Modificadores.dll

@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\02-Quadrado-Cubo.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\02-Quadrado-Cubo.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\02-Quadrado-Cubo.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\02-Quadrado-Cubo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\ref\02-Quadrado-Cubo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\bin\Debug\net6.0\02-Quadrado-Cubo.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\ref\02-Quadrado-Cubo.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\06-Desafios-Iniciais\02-Quadrado-Cubo\obj\Debug\net6.0\02-Quadrado-Cubo.genruntimeconfig.cache
