@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\04-System-Watcher.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\04-System-Watcher.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\04-System-Watcher.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\04-System-Watcher.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\ref\04-System-Watcher.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\bin\Debug\net6.0\04-System-Watcher.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\ref\04-System-Watcher.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\04-System-Watcher\obj\Debug\net6.0\04-System-Watcher.genruntimeconfig.cache

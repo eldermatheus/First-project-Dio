@@ -1,0 +1,17 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\08-Importando-Dados-Helper.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\08-Importando-Dados-Helper.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\08-Importando-Dados-Helper.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\08-Importando-Dados-Helper.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\ref\08-Importando-Dados-Helper.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\08-Importando-Dados-Helper.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.csproj.CopyComplete
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\ref\08-Importando-Dados-Helper.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\08-Importando-Dados-Helper\obj\Debug\net6.0\08-Importando-Dados-Helper.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\06-stringWriter.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\06-stringWriter.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\06-stringWriter.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\06-stringWriter.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\ref\06-stringWriter.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\bin\Debug\net6.0\06-stringWriter.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\ref\06-stringWriter.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\06-stringWriter\obj\Debug\net6.0\06-stringWriter.genruntimeconfig.cache
