@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8WBvEqUuxcnh3q862l9qaPGOMoQ2WkOIRH1I1WRdqD0e452VjqZf7FKlqOP0ta3tR5sSY4wLTnwXzXsAHAdoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elder\\Documents\\Workspace\\Projetos-Dio-GFT\\09-Arquivos-Streams\\08-Importando-Dados-Helper\\08-Importando-Dados-Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elder\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

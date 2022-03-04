@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\05-Streams.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\05-Streams.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\05-Streams.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\05-Streams.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\ref\05-Streams.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\bin\Debug\net6.0\05-Streams.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\ref\05-Streams.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\05-Streams\obj\Debug\net6.0\05-Streams.genruntimeconfig.cache

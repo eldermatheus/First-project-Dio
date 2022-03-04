@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\07-Importando-Dados.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\07-Importando-Dados.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\07-Importando-Dados.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\07-Importando-Dados.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\ref\07-Importando-Dados.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\bin\Debug\net6.0\07-Importando-Dados.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\ref\07-Importando-Dados.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\09-Arquivos-Streams\07-Importando-Dados\obj\Debug\net6.0\07-Importando-Dados.genruntimeconfig.cache
