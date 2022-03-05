@@ -8,4 +8,5 @@ FileHelper helper = new FileHelper();
 //helper.ListarDiretorios(caminho);
 //helper.ListarArquivos(caminho);
 //helper.CriarDiretorios(caminhoPathCombine);
+
 helper.DeletarDiretorios(caminhoPathCombine);
