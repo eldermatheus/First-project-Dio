@@ -1,6 +1,25 @@
 ﻿using Pilares_Poo.Models;
+using Pilares_Poo.Interfaces;
 
-ExemploCalculadora();
+
+
+static void Interfaces()
+{
+    ICalculadora calc = new Calculadora();
+    System.Console.WriteLine(calc.Somar(10,20));
+    System.Console.WriteLine(calc.Subtrair(10,20));
+    System.Console.WriteLine(calc.Multiplicar(10,20));
+    System.Console.WriteLine(calc.Dividir(10,20));
+}
+
+static void ContaCorrente()
+{
+    Corrente c1 = new Corrente();
+    c1.ExibirSado();
+    c1.Creditar(100);
+    c1.Creditar(150);
+    c1.ExibirSado();
+}
 
 static void ExemploCalculadora()
 {
