@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\01-Arrays.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\01-Arrays.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\01-Arrays.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\01-Arrays.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\ref\01-Arrays.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\bin\Debug\net6.0\01-Arrays.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\ref\01-Arrays.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\01-Arrays\obj\Debug\net6.0\01-Arrays.genruntimeconfig.cache

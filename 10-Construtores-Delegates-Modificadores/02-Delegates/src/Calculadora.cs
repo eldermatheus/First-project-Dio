@@ -2,7 +2,7 @@ namespace Delegates.src
 {   
     public class Calculadora
     {
-        // Delegates
+        // Delegate
         public delegate void DelegateCalculadora();
         
         // Evento

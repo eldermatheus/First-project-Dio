@@ -1,10 +1,60 @@
 ﻿using System.Globalization;
 using CsvHelper;
 using CsvHelper.Configuration;
+using Importando_Dados_Helper.Mapping;
 using Importando_Dados_Helper.Model;
 
+EscreverCsv();
 
-LerCSVSemCabecalho();
+
+static void EscreverCsv()
+{
+    var path = Path.Combine(Environment.CurrentDirectory,"Saida");
+
+    var dir = new DirectoryInfo(path);
+
+    if (!dir.Exists)
+    {
+        dir.Create();
+    }
+    
+    path = Path.Combine(path, "Lista de Produtos Exportada.csv");    
+
+    var Produtos = new List<Produto>()
+    {
+        new Produto()
+        {
+            Nome = "Fritadeira Eletrica",
+            Marca = "Mondial",
+            Preco = 350,
+        },
+
+        new Produto()
+        {
+            Nome = "Batedeira",
+            Marca = "Britania",
+            Preco = 120,
+        },
+
+        new Produto()
+        {
+            Nome = "Geladeira",
+            Marca = "Consul",
+            Preco = 2800,
+        }
+    };
+
+    using var sr = new StreamWriter(path);
+
+    var csvConfig = new CsvConfiguration(CultureInfo.InstalledUICulture)
+    {
+        Delimiter = "|"
+    }; 
+    
+    using var CsvWriter = new CsvWriter(sr,csvConfig);
+    CsvWriter.WriteRecords(Produtos);
+}
+
 
 static void LerCSVSemCabecalho()
 {
@@ -23,6 +73,8 @@ static void LerCSVSemCabecalho()
         Delimiter = ";"
     };
     using var csvReader = new CsvReader(sr, csvConfig);
+
+    csvReader.Context.RegisterClassMap<ProdutoMap>();
 
     var registros = csvReader.GetRecords<ProdutoSemCabecalho>().ToList();
 
