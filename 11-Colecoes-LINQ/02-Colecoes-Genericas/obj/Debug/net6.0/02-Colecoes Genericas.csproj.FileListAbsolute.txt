@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\02-Colecoes Genericas.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\02-Colecoes Genericas.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\02-Colecoes Genericas.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\02-Colecoes Genericas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\ref\02-Colecoes Genericas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\bin\Debug\net6.0\02-Colecoes Genericas.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\ref\02-Colecoes Genericas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\02-Colecoes Genericas\obj\Debug\net6.0\02-Colecoes Genericas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\12-Exceptions.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\12-Exceptions.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\12-Exceptions.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\12-Exceptions.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\ref\12-Exceptions.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\bin\Debug\net6.0\12-Exceptions.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\ref\12-Exceptions.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\12-Exceptions\obj\Debug\net6.0\12-Exceptions.genruntimeconfig.cache

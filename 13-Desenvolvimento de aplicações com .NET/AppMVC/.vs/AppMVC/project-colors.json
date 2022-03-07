@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df63aec4-2c21-4731-8171-8cb1a20f2310": {
+      "ProjectGuid": "df63aec4-2c21-4731-8171-8cb1a20f2310",
+      "DisplayName": "AppMVC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "e2e88993-4e91-41ce-b7e1-7db07c6f7bbd": {
+      "ProjectGuid": "e2e88993-4e91-41ce-b7e1-7db07c6f7bbd",
+      "DisplayName": "AppAPI",
+      "ColorIndex": 1
+    },
+    "c27311af-b4da-462e-aaa2-8bff8c8eaab1": {
+      "ProjectGuid": "c27311af-b4da-462e-aaa2-8bff8c8eaab1",
+      "DisplayName": "AppAPI",
+      "ColorIndex": 2
+    },
+    "c11adb08-81a4-46ed-a93d-a801eabee004": {
+      "ProjectGuid": "c11adb08-81a4-46ed-a93d-a801eabee004",
+      "DisplayName": "AppTestexUnit",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

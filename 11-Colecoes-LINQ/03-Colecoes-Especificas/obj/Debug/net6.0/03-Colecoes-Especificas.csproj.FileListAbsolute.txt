@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\03-Colecoes-Especificas.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\03-Colecoes-Especificas.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\03-Colecoes-Especificas.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\03-Colecoes-Especificas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\ref\03-Colecoes-Especificas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\bin\Debug\net6.0\03-Colecoes-Especificas.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\ref\03-Colecoes-Especificas.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\03-Colecoes-Especificas\obj\Debug\net6.0\03-Colecoes-Especificas.genruntimeconfig.cache

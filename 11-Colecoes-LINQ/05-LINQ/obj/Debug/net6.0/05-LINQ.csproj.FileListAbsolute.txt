@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\05-LINQ.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\05-LINQ.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\05-LINQ.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\05-LINQ.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\ref\05-LINQ.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\bin\Debug\net6.0\05-LINQ.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\ref\05-LINQ.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\11-Colecoes-LINQ\05-LINQ\obj\Debug\net6.0\05-LINQ.genruntimeconfig.cache
