@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "391c5a24-0516-45b2-9ee0-f0dad39628b8": {
+      "ProjectGuid": "391c5a24-0516-45b2-9ee0-f0dad39628b8",
+      "DisplayName": "Contagem de Cedulas",
+      "ColorIndex": 0
+    },
+    "7b833a67-1f27-4d10-a50b-51cb693cf2e0": {
+      "ProjectGuid": "7b833a67-1f27-4d10-a50b-51cb693cf2e0",
+      "DisplayName": "Triangulo",
+      "ColorIndex": 1
+    },
+    "1db875b0-05f6-4c1a-84d1-187ee85fdbde": {
+      "ProjectGuid": "1db875b0-05f6-4c1a-84d1-187ee85fdbde",
+      "DisplayName": "Compras no Supermercado",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

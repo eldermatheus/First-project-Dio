@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\Contagem de Cedulas.exe
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\Contagem de Cedulas.deps.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\Contagem de Cedulas.runtimeconfig.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\Contagem de Cedulas.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\ref\Contagem de Cedulas.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\bin\Debug\net6.0\Contagem de Cedulas.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\ref\Contagem de Cedulas.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Desafios-Iniciais\obj\Debug\net6.0\Contagem de Cedulas.genruntimeconfig.cache

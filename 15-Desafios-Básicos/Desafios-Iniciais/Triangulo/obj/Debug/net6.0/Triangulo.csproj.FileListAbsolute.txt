@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\Triangulo.exe
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\Triangulo.deps.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\Triangulo.runtimeconfig.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\Triangulo.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\ref\Triangulo.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\bin\Debug\net6.0\Triangulo.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\ref\Triangulo.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Triangulo\obj\Debug\net6.0\Triangulo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\Compras no Supermercado.exe
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\Compras no Supermercado.deps.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\Compras no Supermercado.runtimeconfig.json
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\Compras no Supermercado.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\ref\Compras no Supermercado.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\bin\Debug\net6.0\Compras no Supermercado.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\ref\Compras no Supermercado.dll
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.pdb
+C:\Users\USUARIO\Documents\Workspace\Projetos-Dio-GFT\15-Desafios-Básicos\Desafios-Iniciais\Compras no Supermercado\obj\Debug\net6.0\Compras no Supermercado.genruntimeconfig.cache
