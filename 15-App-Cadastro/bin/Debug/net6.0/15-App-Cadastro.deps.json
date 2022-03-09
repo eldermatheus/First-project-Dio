@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "15-App-Cadastro/1.0.0": {
+        "runtime": {
+          "15-App-Cadastro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15-App-Cadastro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

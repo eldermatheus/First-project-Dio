@@ -1,0 +1,15 @@
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.csproj.AssemblyReference.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.AssemblyInfoInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.AssemblyInfo.cs
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\15-App-Cadastro.exe
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\15-App-Cadastro.deps.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\15-App-Cadastro.runtimeconfig.json
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\15-App-Cadastro.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\ref\15-App-Cadastro.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\bin\Debug\net6.0\15-App-Cadastro.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\ref\15-App-Cadastro.dll
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.pdb
+C:\Users\elder\Documents\Workspace\Projetos-Dio-GFT\15-App-Cadastro\obj\Debug\net6.0\15-App-Cadastro.genruntimeconfig.cache
